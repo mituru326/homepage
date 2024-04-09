@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<meta charset="UTF-8">
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 22.0.0.1 Trial for Windows">
+<title>PC｜いせえびのホームぺージ</title>
+<link rel="stylesheet" href="../css.css" type="text/css">
+<script type="text/javascript" language="JavaScript">
+<!--HPB_SCRIPT_CODE_40
+function _HpbImgSwap(imgName, imgSrc)
+{
+  var appVer=parseInt(navigator.appVersion);
+  var isNC=false,isN6=false,isIE=false;
+  if (document.all && appVer >= 4) isIE=true; else
+    if (document.getElementById && appVer > 4) isN6=true; else
+      if (document.layers && appVer >= 4) isNC=true;
+  if (isNC||isN6||isIE)
+  {
+    if (document.images)
+    {
+      var img = document.images[imgName];
+      if (!img) img = _HpbImgFind(document, imgName);
+      if (img) img.src = imgSrc;
+    }
+  }
+}
+
+function _HpbImgFind(doc, imgName)
+{
+  for (var i=0; i < doc.layers.length; i++)
+  {
+    var img = doc.layers[i].document.images[imgName];
+    if (!img) img = _HpbImgFind(doc.layers[i], imgName);
+    if (img) return img;
+  }
+  return null;
+}
+//-->
+</script>
+</head>
+<body>
+<p class="example"><a href="../index.html"><img src="../bar1.png" onmouseover="this.src='../bar1a.png'" onmouseout="this.src='../bar1.png'"></a><a href="../https://youtube.com/@mie_express"><img src="../bar2.png" onmouseover="this.src='../bar2a.png'" onmouseout="this.src='../bar2.png'"></a><a href="../about.html"><img src="../bar3.png" onmouseover="this.src='../bar3a.png'" onmouseout="this.src='../bar3.png'"><a><a href="../blog.html"><img src="../bar4.png" onmouseover="this.src='../bar4a.png'" onmouseout="this.src='../bar4.png'"></a><a href="../train.html"><img src="../bar5.png" onmouseover="this.src='../bar5a.png'" onmouseout="this.src='../bar5.png'"></a><a href="../tec.html"><img src="../bar6.png" onmouseover="this.src='../bar6a.png'" onmouseout="this.src='../bar6.png'"></a><a href="../pc.html"><img src="../bar7.png" onmouseover="this.src='../bar7a.png'" onmouseout="this.src='../bar7.png'"></a><a href="../travel.html"><img src="../bar8.png" onmouseover="this.src='../bar8a.png'" onmouseout="this.src='../bar8.png'"></a><img src="../bar9.png"><a href="../ohter.html"><img src="../bar_.png" onmouseover="this.src='../bar_a.png'" onmouseout="this.src='../bar_.png'"></a>
+
+</a></a></p>
+<h1 style="text-align : left;">自作PC1号機</h1>
+<blockquote>
+<span style="font-size : 80%;">【現在のスペック】</span><br>
+<table border="1">
+  <tbody>
+    <tr>
+      <td style="width : 100px;">CPU</td>
+      <td style="width : 350px;">Ryzen 5 3500</td>
+    </tr>
+    <tr>
+      <td style="width : 100px;">RAM</td>
+      <td style="width : 350px;">24GB</td>
+    </tr>
+    <tr>
+      <td style="width : 100px;">ストレージ</td>
+      <td style="width : 350px;">SSD256GB/HDD4TB(外)+1TB+2TB</td>
+    </tr>
+    <tr>
+      <td style="width : 100px;">GPU</td>
+      <td style="width : 350px;">Radeon RX550</td>
+    </tr>
+    <tr>
+      <td style="width : 100px;">マザボ</td>
+      <td style="width : 350px;">B550 Phantom Gaming 4</td>
+    </tr>
+    <tr>
+      <td style="width : 100px;">電源</td>
+      <td style="width : 350px;">400W</td>
+    </tr>
+    <tr>
+      <td style="width : 100px;">OS</td>
+      <td style="width : 350px;">Windows 11 Pro</td>
+    </tr>
+  </tbody>
+</table>
+<h2>歴史</h2>
+<h3>2018年12月後半 突然のマザーGET</h3>
+<span style="font-size : 80%;">このPCの始まりは2018年までさかのぼった所から始まります。(思ったより前だった)<br>
+この当時クリスマスだったんですが、この年はまだ小学生だったんでクリスマスプレゼント普通にもらってました。<br>
+(中学の頃も親からのプレゼントという感じでもらってた　高校からは知らん)<br>
+まあそういう感じだったんですが、この年ASUSの「H310M-A」(第8世代iシリーズ対応)を買ってもらいました。<br>
+まあね、6000円くらいで売ってる底辺マザー(底辺って言うな)なんですが、当時は3000円でもとてもとても大金(というか今でもそんな変わってない)だったんで(?)<br>
+まあそういう言い訳は置いといて、とにかく突然自作PCの計画がスタートしました。<br>
+</span>
+
+<h3>2019年3月29日 部品買いに行った</h3>
+<span style="font-size : 80%;">あのあと親とも相談して、なんと家の資金(5～6万円程度)でPCを作れる事になりました。<br>
+でマザーを買った4か月後、大阪の日本橋に部品を買ってきました。<br>
+当日は津新町から近鉄特急(多分中川乗り換え)で大阪難波まで行きました。<br>
+まあその時習い事のPC30～35年くらいやってる(当時)先生と店をいろいろまわって決めました。<br>
+最終的に難波のツクモで買いました。まあメモリとかのパーツは店の人に選んでもらって、大半は店で自分で選びました。<br>
+まあ大体全部合わせて5万円くらいで買えました。<s>この直後にCPUの値段がめっちゃ下がってキレた思い出がある</s><br>
+買ったついでに電子部品屋もぶらぶらしました。<br>
+</span>
+<h4><span style="font-size : 80%;">買ったパーツについて</span></h4>
+<span style="font-size : 80%;">
+<b>CPU:Intel Core i3 8100(購入時2万円くらい)</b><br>
+本当は当時の資金的にPentium Goldくらいになるはずだったんだけど、無理してi3にしました。<br>
+4コア4スレッド、3.6GHz<br>
+</span><span style="font-size : 60%;">(参考までに当時使ってたPCのCPUは1コア1スレッド1.6GHzのCeleron430。<b>いくらなんでも無理があるやろ。</b>だから当時としては相当な進化だった。)</span><span style="font-size : 80%;"><br>
+上にも書いた通り買った直後にCPUの価格が下落しました。なんで！！！<br>
+<b>RAM:crucial DDR4-2666 4GB(x2)</b><br>
+RAMはとりあえず(当時としては)余裕のある8GBくらいを導入。<br>
+<b>SSD:Intel SSD5 256GB</b><br>
+謎にIntel製のやつが安かったんで購入。当時は256GBのSSDとかかなりの贅沢だったらしい(by 旧HP)<br>
+だがしかし4年も経つと容量がマジで少なすぎて定期的にCCcleanerかけないと死ぬ。限界。<br>
+<b>ケース:Thermaltake Versa H26</b><br>
+店にあった中でかっこよくて一番安いのを選んだ。なんでや。親の資金やぞ<br>
+店にいた時はめっちゃカッコよかったけど、いざ組み立てるとちょっと安っぽい所が結構あった。でもコスパはいい。<br>
+でも親の資金なんだが(2回目)<br>
+<b>電源:Thermaltake SMART 500W</b><br>
+まあ電源は80+認証されてれば何でもよかったんで、なんか3000円で売ってた500Wのやつを買いました。<br>
+当時はブロンズとかそのへんかと思ってたらしいんだけど、今見たらこれスタンダードだわ。(4年越しの事実)<br>
+</span>
+<h3>2019年3月30日 組み立て</h3>
+<span style="font-size : 80%;">買った翌日に早速自宅で組み立てました。<br>
+人生初の(完全に)新品の自作PCだったんですが、今まですでに自作PCの知識は過剰なくらい学んでた(というかジャンクとかで実践してた)ので、<br>
+初めてにしては結構早く(大体2時間くらい←うろ覚え)いけました(まあひょっとしたらそんなに早くないかもしれない)<br>
+で1発で起動もしました。さすが新品！！すごぉい！！(当時の感想)<br>
+OSはWindows10(Pro版。7のキーを流用)を入れました。かかった時間は約15分。<b>うせやろ。</b>(当時の感想)<br>
+今までWindows10を入れる時は最低でも1時間半くらいかかってたんです。おかしいなぁ。(?)<br>
+まあ今まで入れてきたPCは大体全部1コア1スレッドの産廃だったので、まぁ当然の差かもしれませんが、今まではHDDを使っていたのも要因でしょう。<br>
+もちろん動作も今まで使ってた物とは比べ物にならないくらいめっちゃサクサク動きました。<br><br>
+ちなみに、同時に無線LANの子機も800円くらいで買ってもらいました。これで2階の自室ネットでもも使えます。やったぜ。<br><br><br>
+そんなわけで、約4年間使ってたPC(FMV)に代わり、こいつがメイン機になりました。<br>
+
+<br><b>【当時のスペック】</b><br>
+</span>
+<table border="1">
+  <tbody>
+    <tr>
+      <td style="width : 100px;"><span style="font-size : 80%;">CPU</span></td>
+      <td style="width : 350px;"><span style="font-size : 80%;">intel Core i3 8100</span></td>
+    </tr>
+    <tr>
+      <td style="width : 100px;"><span style="font-size : 80%;">RAM</span></td>
+      <td style="width : 350px;"><span style="font-size : 80%;">8GB</span></td>
+    </tr>
+    <tr>
+      <td style="width : 100px;"><span style="font-size : 80%;">ストレージ</span></td>
+      <td style="width : 350px;"><span style="font-size : 80%;">SSD256GB/HDD300GB(家にあったやつ)</span></td>
+    </tr>
+    <tr>
+      <td style="width : 100px;"><span style="font-size : 80%;">光学ドライブ</span></td>
+      <td style="width : 350px;"><span style="font-size : 80%;">ハードオフで108円で売ってたやつ(IDE、変換機を使用)</span></td>
+    </tr>
+    <tr>
+      <td style="width : 100px;"><span style="font-size : 80%;">GPU</span></td>
+      <td style="width : 350px;"><span style="font-size : 80%;">CPU内蔵</span></td>
+    </tr>
+    <tr>
+      <td style="width : 100px;"><span style="font-size : 80%;">マザボ</span></td>
+      <td style="width : 350px;"><span style="font-size : 80%;">ASUS H310-M</span></td>
+    </tr>
+    <tr>
+      <td style="width : 100px;"><span style="font-size : 80%;">電源</span></td>
+      <td style="width : 350px;"><span style="font-size : 80%;">Thermaltake SMART 500W</span></td>
+    </tr>
+    <tr>
+      <td style="width : 100px;"><span style="font-size : 80%;">ケース</span></td>
+      <td style="width : 350px;"><span style="font-size : 80%;">Thermaltake Versa H26</span></td>
+    </tr>
+    <tr>
+      <td style="width : 100px;"><span style="font-size : 80%;">画面</span></td>
+      <td style="width : 350px;"><span style="font-size : 80%;">シャープ LC-26V7(液晶テレビ)</span></td>
+    </tr>
+    <tr>
+      <td style="width : 100px;"><span style="font-size : 80%;">OS</span></td>
+      <td style="width : 350px;"><span style="font-size : 80%;">Windows 10 Pro</span></td>
+    </tr>
+  </tbody>
+</table>
+<h3>2020年4月30日 マザボ/CPU交換、GPU増設</h3>
+<span style="font-size : 80%;">
+マザボとCPUをRyzenに交換しました。<b>なんで。</b><br>
+これには実は深いわけと経緯があります。<br><br><br>
+この頃になると、まあAviutlとかも使ってて<s>クソ</s>動画とかを作ってたりもしてたんですが、<br>
+まぁね、ちょっと流石に動画編集だとi3-8100+内蔵GPUではちょっとパワー不足なんですよ。(主にCPU)<br>
+なんでまあ金もたまってきたんでCPU見てこようかなと思ったんですよ。<br><br>
+実際に近所のグッドウィル見てきました。<br><br>
+<span style="font-size : 200%;">高　い</span><br><br>
+やっぱi5とかを買おうとすると、どうしても2万とかいっちゃうんだよなぁ。<br>
+i3の上位機種ならマシだけど、そこまで変わらんしなぁって思ってたらですね、<br>
+<b>なんとRyzenのコーナーにRyzen5-3500が14000円くらいで売ってたんですよ。</b><br>
+(ちなみにこの価格は(当時)大体i3と同じくらいの値段でした。)<br>
+でひらめいちゃったんですよ。これマザボ買ってもあんま値段変わらなくねと。<br>
+まああとついでにマザボをATX対応のそこそこいいやつ買って<b>わぁーお</b>(?)しようと思ったんですね<br>
+あ、あとそろそろついでにGPUも買おうとも思いました。基本RyzenはGPU非内蔵だし。<br>
+というわけで以下のパーツを買いました。<br><br><br>
+</span>
+<h4><span style="font-size : 80%;">買ったパーツ</span></h4>
+<span style="font-size : 80%;">
+<b>CPU:AMD Ryzen 5 3500</b><br>
+6コア6スレッド3.6GHzのミドルレンジCPU。<br>
+<b>マザボ:ASUS TUF B450-PLUS GAMING</b><br>
+ATXの中間グレードくらいのマザボ。<br>
+<b>GPU:玄人志向 RD-RX550-E2GB/OC(RX550)</b><br>
+多分あった中で一番安かったRX550。<br>
+<br>
+<br>
+購入金額は大体ギリ3万切ってるくらいでした。<br>
+で家帰って、早速交換しました。<br>
+<br>
+交換したら見事にAviutlの動画編集がサクサクになりました。やったぁ！<br>
+<br>
+あと同時に家にあったUSBのFDDドライブ2台も追加されました。<s>カオス</s><br>
+<br>
+<b>【当時のスペック】</b><br>
+</span>
+<table border="1">
+  <tbody>
+    <tr>
+      <td style="width : 100px;"><span style="font-size : 80%;">CPU</span></td>
+      <td style="width : 350px;"><span style="font-size : 80%;">AMD Ryzen5 3500</span></td>
+    </tr>
+    <tr>
+      <td style="width : 100px;"><span style="font-size : 80%;">RAM</span></td>
+      <td style="width : 350px;"><span style="font-size : 80%;">8GB</span></td>
+    </tr>
+    <tr>
+      <td style="width : 100px;"><span style="font-size : 80%;">ストレージ</span></td>
+      <td style="width : 350px;"><span style="font-size : 80%;">SSD256GB/HDD300GB(家にあったやつ)</span></td>
+    </tr>
+    <tr>
+      <td style="width : 100px;"><span style="font-size : 80%;">光学ドライブ</span></td>
+      <td style="width : 350px;"><span style="font-size : 80%;">ハードオフで108円で売ってたやつ(IDE、変換機を使用)</span></td>
+    </tr>
+    <tr>
+      <td style="width : 100px;"><span style="font-size : 80%;">その他ドライブ</span></td>
+      <td style="width : 350px;"><span style="font-size : 80%;">FDDx2</span></td>
+    </tr>
+    <tr>
+      <td style="width : 100px;"><span style="font-size : 80%;">GPU</span></td>
+      <td style="width : 350px;"><span style="font-size : 80%;">玄人志向 RD-RX550-E2GB/OC(RX550)</span></td>
+    </tr>
+    <tr>
+      <td style="width : 100px;"><span style="font-size : 80%;">マザボ</span></td>
+      <td style="width : 350px;"><span style="font-size : 80%;">ASUS TUF B450-PLUS GAMING</span></td>
+    </tr>
+    <tr>
+      <td style="width : 100px;"><span style="font-size : 80%;">電源</span></td>
+      <td style="width : 350px;"><span style="font-size : 80%;">Thermaltake SMART 500W</span></td>
+    </tr>
+    <tr>
+      <td style="width : 100px;"><span style="font-size : 80%;">ケース</span></td>
+      <td style="width : 350px;"><span style="font-size : 80%;">ASUS VP228</span></td>
+    </tr>
+    <tr>
+      <td style="width : 100px;"><span style="font-size : 80%;">画面</span></td>
+      <td style="width : 350px;"><span style="font-size : 80%;">シャープ LC-26V7(液晶テレビ)</span></td>
+    </tr>
+    <tr>
+      <td style="width : 100px;"><span style="font-size : 80%;">OS</span></td>
+      <td style="width : 350px;"><span style="font-size : 80%;">Windows 10 Pro</span></td>
+    </tr>
+  </tbody>
+</table>
+</blockquote><br>
+<span style="footer">
+<br>
+</span>
+<div style="background-color:#000000;
+	text-align : center;">
+  <blockquote><span style="footer"><br>
+  </span>
+  <footer>
+  <p><span style="footer"><font color=#FFFFFF>Copyright© 2023 @mie_express All Rights Reserved.</font></span></p>
+  </footer>
+  <span style="footer"><br>
+  </span></blockquote>
+</div>
+</body>
+</html>

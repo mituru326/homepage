@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<meta charset="UTF-8">
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 22.0.0.1 Trial for Windows">
+<title>PC｜いせえびのホームぺージ</title>
+<link rel="stylesheet" href="css.css" type="text/css">
+<script type="text/javascript" language="JavaScript">
+<!--HPB_SCRIPT_CODE_40
+function _HpbImgSwap(imgName, imgSrc)
+{
+  var appVer=parseInt(navigator.appVersion);
+  var isNC=false,isN6=false,isIE=false;
+  if (document.all && appVer >= 4) isIE=true; else
+    if (document.getElementById && appVer > 4) isN6=true; else
+      if (document.layers && appVer >= 4) isNC=true;
+  if (isNC||isN6||isIE)
+  {
+    if (document.images)
+    {
+      var img = document.images[imgName];
+      if (!img) img = _HpbImgFind(document, imgName);
+      if (img) img.src = imgSrc;
+    }
+  }
+}
+
+function _HpbImgFind(doc, imgName)
+{
+  for (var i=0; i < doc.layers.length; i++)
+  {
+    var img = doc.layers[i].document.images[imgName];
+    if (!img) img = _HpbImgFind(doc.layers[i], imgName);
+    if (img) return img;
+  }
+  return null;
+}
+//-->
+</script>
+</head>
+<body>
+<p class="example"><a href="index.html"><img src="bar1.png" onmouseover="this.src='bar1a.png'" onmouseout="this.src='bar1.png'"></a><a href="https://youtube.com/@mie_express"><img src="bar2.png" onmouseover="this.src='bar2a.png'" onmouseout="this.src='bar2.png'"></a><a href="about.html"><img src="bar3.png" onmouseover="this.src='bar3a.png'" onmouseout="this.src='bar3.png'"><a><a href="blog.html"><img src="bar4.png" onmouseover="this.src='bar4a.png'" onmouseout="this.src='bar4.png'"></a><a href="train.html"><img src="bar5.png" onmouseover="this.src='bar5a.png'" onmouseout="this.src='bar5.png'"></a><a href="tec.html"><img src="bar6.png" onmouseover="this.src='bar6a.png'" onmouseout="this.src='bar6.png'"></a><a href="pc.html"><img src="bar7.png" onmouseover="this.src='bar7a.png'" onmouseout="this.src='bar7.png'"></a><a href="travel.html"><img src="bar8.png" onmouseover="this.src='bar8a.png'" onmouseout="this.src='bar8.png'"></a><img src="bar9.png"><a href="ohter.html"><img src="bar_.png" onmouseover="this.src='bar_a.png'" onmouseout="this.src='bar_.png'"></a>
+
+</a></a></p>
+<h1 style="text-align : left;">PC　<span style="font-size:large"><s>ぱすこん</s>　パソコン</span></h1>
+<blockquote>
+<h2>PC一覧</h2>
+<h3>メイン機</h3>
+<span style="font-size : 80%;">【スペック】</span><br>
+<table border="1">
+  <tbody>
+    <tr>
+      <td style="width : 100px;">&nbsp;CPU</td>
+      <td style="width : 350px;">&nbsp;Ryzen 5 3500</td>
+    </tr>
+    <tr>
+      <td style="width : 100px;">&nbsp;RAM</td>
+      <td style="width : 350px;">&nbsp;24GB</td>
+    </tr>
+    <tr>
+      <td style="width : 100px;">&nbsp;ストレージ</td>
+      <td style="width : 350px;">&nbsp;SSD256GB/HDD4TB(外)+1TB+2TB</td>
+    </tr>
+    <tr>
+      <td style="width : 100px;">&nbsp;GPU</td>
+      <td style="width : 350px;">&nbsp;RX550</td>
+    </tr>
+    <tr>
+      <td style="width : 100px;">&nbsp;マザボ</td>
+      <td style="width : 350px;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="width : 100px;">&nbsp;電源</td>
+      <td style="width : 350px;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="width : 100px;">&nbsp;OS</td>
+      <td style="width : 350px;">&nbsp;Windows 11 Pro</td>
+    </tr>
+  </tbody>
+</table>
+</blockquote>
+<div style="footer">
+<br>
+<div style="background-color:#000000;
+	text-align : center;">
+    <blockquote><br>
+    <footer>
+    <p><font color=#FFFFFF>Copyright© 2023 @mie_express All Rights Reserved.</font></p>
+    </footer><br></blockquote>
+  </div>
+</div>
+</body>
+</html>

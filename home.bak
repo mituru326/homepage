@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<meta charset="UTF-8">
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 22.0.0.1 Trial for Windows">
+<title>いせえびのホームぺージ</title>
+<link rel="stylesheet" href="css.css" type="text/css">
+<script type="text/javascript" language="JavaScript">
+<!--HPB_SCRIPT_CODE_40
+function _HpbImgSwap(imgName, imgSrc)
+{
+  var appVer=parseInt(navigator.appVersion);
+  var isNC=false,isN6=false,isIE=false;
+  if (document.all && appVer >= 4) isIE=true; else
+    if (document.getElementById && appVer > 4) isN6=true; else
+      if (document.layers && appVer >= 4) isNC=true;
+  if (isNC||isN6||isIE)
+  {
+    if (document.images)
+    {
+      var img = document.images[imgName];
+      if (!img) img = _HpbImgFind(document, imgName);
+      if (img) img.src = imgSrc;
+    }
+  }
+}
+
+function _HpbImgFind(doc, imgName)
+{
+  for (var i=0; i < doc.layers.length; i++)
+  {
+    var img = doc.layers[i].document.images[imgName];
+    if (!img) img = _HpbImgFind(doc.layers[i], imgName);
+    if (img) return img;
+  }
+  return null;
+}
+//-->
+</script>
+</head>
+<body>
+<p class="example"><img src="hplogo.png" width="960" height="400" border="0">
+</p>
+<p class="example"><a href="home.html"><img src="bar1.png" onmouseover="this.src='bar1a.png'" onmouseout="this.src='bar1.png'"></a><a href="https://youtube.com/@mie_express"><img src="bar2.png" onmouseover="this.src='bar2a.png'" onmouseout="this.src='bar2.png'"></a><a href="about.html"><img src="bar3.png" onmouseover="this.src='bar3a.png'" onmouseout="this.src='bar3.png'"></a><a href="blog.html"><img src="bar4.png" onmouseover="this.src='bar4a.png'" onmouseout="this.src='bar4.png'"></a><a href="train.html"><img src="bar5.png" onmouseover="this.src='bar5a.png'" onmouseout="this.src='bar5.png'"></a><a href="tec.html"><img src="bar6.png" onmouseover="this.src='bar6a.png'" onmouseout="this.src='bar6.png'"></a><a href="pc.html"><img src="bar7.png" onmouseover="this.src='bar7a.png'" onmouseout="this.src='bar7.png'"></a><a href="travel.html"><img src="bar8.png" onmouseover="this.src='bar8a.png'" onmouseout="this.src='bar8.png'"><img src="bar9.png"><a href="ohter.html"><img src="bar_.png" onmouseover="this.src='bar_a.png'" onmouseout="this.src='bar_.png'"></a>
+
+</a></p>
+<blockquote>
+<h2 style="text-align : left;">はじめに</h2>
+</blockquote>
+<blockquote><span style="font-size : 80%;">やぁ！　鉄道、PC系の動画を投稿している三重県民です。</span></blockquote>
+<blockquote><h3>中の人の基本情報</h3></blockquote>
+<blockquote>
+<table border="1">
+  <tbody>
+    <tr>
+      <td style="width : 123px;">名前&nbsp;</td>
+      <td style="width : 270px;">いせえび&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="width : 123px;">年齢</td>
+      <td style="width : 270px;">16歳</td>
+    </tr>
+    <tr>
+      <td style="width : 123px;">&nbsp;性別</td>
+      <td style="width : 270px;">男&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="width : 123px;">&nbsp;在住地</td>
+      <td style="width : 270px;">三重県津市&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="width : 123px;">沿線&nbsp;</td>
+      <td style="width : 270px;">近鉄名古屋線(通学路線)、紀勢本線&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="width : 123px;">&nbsp;すきなもの</td>
+      <td style="width : 270px;">鉄道、PC、技術系&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+</blockquote>
+<blockquote><h3>おことわり</h3>
+<b><span style="font-size : 90%;">このサイトに掲載されている文章や画像等のデータについて</span></b>
+<br><br><span style="font-size : 80%;">基本的に、他のサイトや、動画などにデータを引用や掲載する場合は、<b>必ず</b>クレジットを書いてください。</span>
+<br><span style="font-size : 80%;">データを商用利用に利用する際も<b>必ず</b>クレジットを書いてください。</span>
+<br>
+<u><span style="font-size : 80%;">画像を掲載する際、クレジットなしの無加工での転載は</span></u><b><u><span style="font-size : 80%;">一切禁止します。</span>
+</u><br>
+</b><br>
+<span style="font-size : 80%;">※他所から引用した画像などは、一切転載禁止です。</span>
+<br><br><br><span style="font-size : 80%;">また、犯罪的な用途での利用や、自作発言、政治利用は<b>禁止します。</b></span>
+<br><br><span style="font-size : 80%;">(著作権法による)私的利用として認められる範囲の利用はご自由にどうぞ。</span>
+<br><br><span style="font-size : 80%;">※また、サイトを複製したものを私的に公開するのもやめてください。(禁止します。)</span>
+<br><span style="font-size : 80%;">(Internet Archive[archive.org]はOK)</span>
+<br><br><br><br><span style="font-size : 90%;">おもくるしかったと思うけどゆっくりみてってね！！</span>
+</blockquote>
+<blockquote>
+<h2 style="text-align : left;">メニュー</h2>
+<h3><a href="about.html">ABOUT-私について</a></h3>
+<span style="font-size : 80%;">このページを書いている(頭のおかしい)人の情報です。</span>
+<h3><a href="blog.html">BLOG-ブログ</a></h3>
+<span style="font-size : 80%;">日常や旅の記録などを書いたブログです。</span>
+<h3><a href="train.html">TRAIN-鉄道関係</a></h3>
+<span style="font-size : 80%;">乗り鉄・鉄道写真/映像記録などの鉄道関係です。</span>
+<h3><a href="tec.html">TECHNOLOGY-電子・技術関係</a></h3>
+<span style="font-size : 80%;">電子工作とかの技術関係です。</span>
+<h3><a href="pc.html">PC-ぱそこん関係</a></h3>
+<span style="font-size : 80%;">自作PCとかのPC関係です。</span>
+<h3><a href="travel.html">TRAVEL-旅記録</a></h3>
+<span style="font-size : 80%;">私の(カオスな)旅記録です。</span>
+<h3><a href="ohter.html">OHTER-その他☆</a></h3>
+<span style="font-size : 80%;">その他いろいろ(投げ)</span>
+</blockquote>
+<div style="footer">
+<br>
+<div style="background-color:#000000;
+	text-align : center;">
+    <blockquote><br>
+    <footer>
+    <p><font color=#FFFFFF>Copyright© 2023 @mie_express All Rights Reserved.</font></p>
+    </footer><br></blockquote>
+  </div>
+</div>
+</body>
+</html>

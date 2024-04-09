@@ -1,0 +1,51 @@
+@charset "UTF-8";
+html {
+  background: #DCE3E6;
+    margin: auto;
+  width:960px
+}
+
+
+body {
+  background: #fff;
+  box-shadow: 0 .3em 1em #000
+   }
+
+}
+
+.resizeimage img { width: 100%; }
+
+.example {
+  overflow: hidden;
+}
+
+
+h1 {
+       font-size:0 40px;
+	padding: 1rem 3rem;
+       box-shadow: 0 3px 25px 0 rgba(0, 0, 0, .5);
+       font-family: Helvetica,"ヒラギノ角ゴ ProN W3",sans-serif;
+  width: 90%;
+  background-image: linear-gradient(270deg, rgba(255, 247, 0, 1), rgba(255, 197, 0, 1));
+       overflow: hidden;
+}
+
+h2 {
+	position: relative;
+       font-size: 15px;
+	padding: 1rem 1.5rem;
+	border: 1px solid #D8D8D8;
+	border-top: 4px solid #FF7F27;
+	background: linear-gradient(#ffffff 0%, #eee 100%);
+}
+
+h3 {
+  margin: 12px 3px 10px 3px;
+  padding: 10px 10px 7px 13px;
+  line-height: 80%;
+  font-size: 12.5px;
+  color: #2B2B2B;
+  border-bottom: solid 1px #005ebb;
+  border-left: solid 5px #7F7F7F;
+  border-bottom: solid 1px #aaaaaa;
+  background-color: #ffffff;
